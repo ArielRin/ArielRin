@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArielRin
+- 👋 Hi, I’m @ArielRyn
 - 👀 I’m interested in Blockchain Applications
 - 🌱 I’m currently learning Typescript and Solidity
 - 💞️ I’m looking to collaborate on other Blockchain apps 
