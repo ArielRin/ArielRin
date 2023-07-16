@@ -1,0 +1,287 @@
+{
+  "name": "SirensTreasure Default List",
+  "timestamp": "2023-07-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 2,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://swap.sirenstreasure.tk/logo.png",
+  "keywords": ["Sirens", "Treasure", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Syrup Token",
+      "symbol": "SYRUP",
+      "address": "0x1178fD8DC94a09Cf608632CF6C184d2634779b92",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x1178fD8DC94a09Cf608632CF6C184d2634779b92.png"
+    },
+    {
+      "name": "Mock Siren",
+      "symbol": "MOCKSIREN",
+      "address": "0x3047daF4756e14d65927bb29bC4b96019E6Cf8BA",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x3047daF4756e14d65927bb29bC4b96019E6Cf8BA.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "SirensTreasure Token",
+      "symbol": "SIREN",
+      "address": "0xaB4e146070C9A1799D33302823E3397569B8e230",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xaB4e146070C9A1799D33302823E3397569B8e230.png"
+    },
+    {
+      "name": "The Umbrella Token Community Wealth",
+      "symbol": "UMBRELLA",
+      "address": "0xc6D90a63eB2398eEb672061689129B2251D010bF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xc6D90a63eB2398eEb672061689129B2251D010bF.png"
+    },
+    {
+      "name": "Lastman Standing Token",
+      "symbol": "MAN",
+      "address": "0x11f7ca845e1406d08e285b2e8f7989315133e59a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x11f7ca845e1406d08e285b2e8f7989315133e59a.png"
+    },
+    {
+      "name": "Lastman Giving Token",
+      "symbol": "LMG",
+      "address": "0xA7efd5D0575cD4682B0c83155bB9e4Ff1a85a6F9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xA7efd5D0575cD4682B0c83155bB9e4Ff1a85a6F9.png"
+    },
+    {
+      "name": "Creed One ",
+      "symbol": "CR1",
+      "address": "0x74A740257DaC46f1c378eb81Fc2A86F4aaf2b3B1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x74A740257DaC46f1c378eb81Fc2A86F4aaf2b3B1.png"
+    },
+    {
+      "name": "Yin Token",
+      "symbol": "YIN",
+      "address": "0x5d5dc8e4d680fc3ef33986292eb02315ab05c735",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x5d5dc8e4d680fc3ef33986292eb02315ab05c735.png"
+    },
+    {
+      "name": "Red Recovery Token",
+      "symbol": "REDR",
+      "address": "0x8ea1cd05abC1a066bd514F86d7E16ed7C7Af282f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x8ea1cd05abC1a066bd514F86d7E16ed7C7Af282f.png"
+    },
+    {
+      "name": "JizzXRP Token",
+      "symbol": "JIZZXRP",
+      "address": "0xE94D447e012C132caB29B9aA72B003a3A2374Dfb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xE94D447e012C132caB29B9aA72B003a3A2374Dfb.png"
+    },
+    {
+      "name": "The Nothing Token",
+      "symbol": "NOTHING",
+      "address": "0xfbAb72774717764C9f369A13cdcB395c03a46BBc",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xfbAb72774717764C9f369A13cdcB395c03a46BBc.png"
+    },
+    {
+      "name": "Eeyore Token",
+      "symbol": "EEYORE",
+      "address": "0xC9fc1A7fA5545F21E454C78957A5fD4a1D83A999",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/eeyoretoken.png"
+    },
+    {
+      "name": "Yang Token",
+      "symbol": "YANG",
+      "address": "0xc486312d5158315c7bbe2c353ad565d1a9d1f0de",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xc486312d5158315c7bbe2c353ad565d1a9d1f0de.png"
+    },
+    {
+      "name": "Lastman Joshing",
+      "symbol": "LMJ",
+      "address": "0x5C791d28853d5f562BcFF91Ed7998ee45B602cB1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x5C791d28853d5f562BcFF91Ed7998ee45B602cB1.png"
+    },
+    {
+      "name": "System 7 Token",
+      "symbol": "SYS7",
+      "address": "0xa17a033f3eA30411f2FA88AAF894eEC2A2E08242",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xa17a033f3eA30411f2FA88AAF894eEC2A2E08242.png"
+    },
+    {
+      "name": "The Haus Token Degen Haus BSC",
+      "symbol": "HAUS",
+      "address": "0x30C628a85E13CD9dea174b3361c6CA267F78a1D4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x30C628a85E13CD9dea174b3361c6CA267F78a1D4.png"
+    },
+    {
+      "name": "Binance-Peg Elrond Token",
+      "symbol": "EGLD",
+      "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
+    },
+    {
+      "name": "Melody Token",
+      "symbol": "MELODY",
+      "address": "0xF3DFB8ab9dad67E756072a40E0EC7735A1d0FfE8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xF3DFB8ab9dad67E756072a40E0EC7735A1d0FfE8.png"
+    },
+
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x4e2442A6f7AeCE64Ca33d31756B5390860BF973E",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "chainId": 4,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "chainId": 5,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "decimals": 8,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    }
+  ]
+}
