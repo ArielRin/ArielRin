@@ -1,14 +1,14 @@
 {
   "name": "SirensTreasure Default List",
-  "timestamp": "2023-07-11T11:45:09Z",
+  "timestamp": "2022-01-26T11:45:09Z",
   "version": {
-    "major": 4,
-    "minor": 2,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://swap.sirenstreasure.tk/logo.png",
-  "keywords": ["Sirens", "Treasure", "default"],
+  "keywords": ["pancake", "default"],
   "tokens": [
     {
       "name": "Wrapped BNB",
@@ -146,6 +146,12 @@
       "decimals": 9,
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/eeyoretoken.png"
     },
+
+
+
+
+
+
     {
       "name": "Yang Token",
       "symbol": "YANG",
@@ -282,6 +288,14 @@
       "chainId": 1,
       "decimals": 8,
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Rug of War",
+      "symbol": "RUGOFWAR",
+      "address": "0x812fb149cb0312516a74c0c5c135fddff60db827",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x812fb149cb0312516a74c0c5c135fddff60db827.png"
     }
   ]
 }
