@@ -115,6 +115,14 @@
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x812fb149cb0312516a74c0c5c135fddff60db827.png"
     },
     {
+      "name": "COCAINE EWOK",
+      "symbol": "EWOK",
+      "address": "0x6d1Dd74e054776833fd182a1802064e90a047e09",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x6d1Dd74e054776833fd182a1802064e90a047e09.png"
+    },
+    {
       "name": "JizzXRP Token",
       "symbol": "JIZZXRP",
       "address": "0xE94D447e012C132caB29B9aA72B003a3A2374Dfb",
