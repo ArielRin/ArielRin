@@ -177,14 +177,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
-    },
-    {
-      "name": "Melody Token",
-      "symbol": "MELODY",
-      "address": "0xF3DFB8ab9dad67E756072a40E0EC7735A1d0FfE8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xF3DFB8ab9dad67E756072a40E0EC7735A1d0FfE8.png"
     }
 
   ]
