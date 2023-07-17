@@ -27,22 +27,6 @@
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
     },
     {
-      "name": "Syrup Token",
-      "symbol": "SYRUP",
-      "address": "0x1178fD8DC94a09Cf608632CF6C184d2634779b92",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x1178fD8DC94a09Cf608632CF6C184d2634779b92.png"
-    },
-    {
-      "name": "Mock Siren",
-      "symbol": "MOCKSIREN",
-      "address": "0x3047daF4756e14d65927bb29bC4b96019E6Cf8BA",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x3047daF4756e14d65927bb29bC4b96019E6Cf8BA.png"
-    },
-    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
@@ -123,6 +107,14 @@
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x8ea1cd05abC1a066bd514F86d7E16ed7C7Af282f.png"
     },
     {
+      "name": "Rug of War",
+      "symbol": "RUGOFWAR",
+      "address": "0x812fb149cb0312516a74c0c5c135fddff60db827",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x812fb149cb0312516a74c0c5c135fddff60db827.png"
+    }
+    {
       "name": "JizzXRP Token",
       "symbol": "JIZZXRP",
       "address": "0xE94D447e012C132caB29B9aA72B003a3A2374Dfb",
@@ -146,12 +138,6 @@
       "decimals": 9,
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/eeyoretoken.png"
     },
-
-
-
-
-
-
     {
       "name": "Yang Token",
       "symbol": "YANG",
@@ -199,15 +185,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xF3DFB8ab9dad67E756072a40E0EC7735A1d0FfE8.png"
-    },
-
-    {
-      "name": "Rug of War",
-      "symbol": "RUGOFWAR",
-      "address": "0x812fb149cb0312516a74c0c5c135fddff60db827",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x812fb149cb0312516a74c0c5c135fddff60db827.png"
     }
+
   ]
 }
