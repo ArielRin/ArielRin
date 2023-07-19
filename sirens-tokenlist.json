@@ -171,6 +171,14 @@
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x30C628a85E13CD9dea174b3361c6CA267F78a1D4.png"
     },
     {
+      "name": "Clams USD Sirens Treasure",
+      "symbol": "CLAMS",
+      "address": "0x3249281940E827c3E52bC649F52a33aC654e9EAd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x3249281940E827c3E52bC649F52a33aC654e9EAd.png"
+    },
+    {
       "name": "Binance-Peg Elrond Token",
       "symbol": "EGLD",
       "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",

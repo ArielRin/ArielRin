@@ -1,0 +1,32 @@
+{
+  "name": "SirensTreasure Default List",
+  "timestamp": "2023-07-17T12:26:12Z",
+  "version": {
+    "major": 7,
+    "minor": 2,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://swap.sirenstreasure.tk/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "",
+      "symbol": "",
+      "address": "",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/.png"
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "address": "",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/.png"
+    }
+
+
+  ]
+}
